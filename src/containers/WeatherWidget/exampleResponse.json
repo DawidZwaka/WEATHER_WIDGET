@@ -1,0 +1,59 @@
+{
+	"data": [
+		{
+			"location": {
+				"city": "Lodz"
+			},
+			"current_observation": {
+				"condition": {
+					"text": "Scattered Showers",
+					"temperature": 78
+				}
+			}
+		},
+		{
+			"location": {
+				"city": "Warsaw"
+			},
+			"current_observation": {
+				"condition": {
+					"text": "Sunny",
+					"temperature": 60
+				}
+			}
+		},
+		{
+			"location": {
+				"city": "Berlin"
+			},
+			"current_observation": {
+				"condition": {
+					"text": "Rainy",
+					"temperature": 23
+				}
+			}
+		},
+		{
+			"location": {
+				"city": "New York"
+			},
+			"current_observation": {
+				"condition": {
+					"text": "Scattered Showers",
+					"temperature": 60
+				}
+			}
+		},
+		{
+			"location": {
+				"city": "Londyn"
+			},
+			"current_observation": {
+				"condition": {
+					"text": "Shower",
+					"temperature": 60
+				}
+			}
+		}
+	]
+}
